@@ -1,4 +1,4 @@
-# simble wether website
+# simple wether website
 show the weather of city
 ![Screenshot](my-app/screenshot.png)
 
